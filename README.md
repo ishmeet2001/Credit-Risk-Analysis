@@ -70,13 +70,13 @@ Combines:
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard_overview.png)
 
 ### Interaction Example (Filtering)
 ![Interaction](images/interaction.png)
 
 
-![Interaction](images/interaction_2.png)
+![Interaction](images/interaction 2.png)
 
 ---
 
