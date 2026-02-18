@@ -73,10 +73,10 @@ Combines:
 ![Dashboard](images/dashboard_overview.png)
 
 ### Interaction Example (Filtering)
-![Interaction](images/interaction.png)
+![Interaction](images/Interaction.png)
 
 
-![Interaction](images/interaction 2.png)
+![Interaction](images/Interaction 2.png)
 
 ---
 
