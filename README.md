@@ -107,20 +107,31 @@ The **Watchlist** tier shows a concentration index of **1.34**, meaning it is 34
 
 ## Project Structure
 
+```text
 Credit-Risk-Analysis/
 │
-├── README.md
-├── data/
+├── README.md               # Project overview and business insights
+├── requirements.txt        # Python dependencies (Pandas, DuckDB, etc.)
+│
 ├── dashboard/
-│   └── dashboard.twbx
-├── images/
+│   └── dashboard.twbx      # Main Tableau Dashboard file
+│
+├── data/
+│   └── processed/          # Cleaned datasets and risk segments
+│
+├── images/                 # Dashboard screenshots for README
 │   ├── dashboard.png
 │   ├── interaction.png
 │   └── contribution.png
+│
 ├── notebooks/
-│   ├── data_profiling.ipynb
-│   └── sql_eda.ipynb
-└── scripts/
+│   ├── data_profiling.ipynb # Initial data exploration
+│   └── sql_eda.ipynb        # SQL-based Exploratory Data Analysis
+│
+└── scripts/                # Python automation scripts
+    ├── preprocess.py       # Data cleaning logic
+    └── risk_rules.py       # Segmentation & business rules
+```
 
 ---
 
