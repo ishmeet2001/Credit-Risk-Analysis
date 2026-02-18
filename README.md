@@ -76,7 +76,7 @@ Combines:
 ![Interaction](images/Interaction.png)
 
 
-![Interaction2](images/Interaction_2.png)
+![Interaction_2](images/Interaction_2.png)
 
 ---
 
