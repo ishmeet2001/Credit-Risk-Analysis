@@ -20,7 +20,6 @@ This project identifies such segments and enables **targeted risk mitigation**.
 
 ---
 
-## 📖 The "Needle in a Haystack" Story
 If a bank manages a portfolio of 100,000 loans, it might see a safe average default rate of 19.9% and decide to "stay the course." 
 
 **However, the average lies.** 
@@ -29,7 +28,7 @@ By building this early-warning system, I uncovered that **6% of the portfolio** 
 
 ---
 
-## 💡 Key Findings & Insights
+## Key Findings & Insights
 - **Concentrated Risk**: The "Watchlist" segment is **34% riskier** than the portfolio average (Risk Index: 1.34).
 - **Hidden Patterns**: Borrowers with high credit utilization (>80%) combined with even one recent delinquency are **4x more likely** to default than clean-profile borrowers.
 - **Exposure Management**: While the "Low" risk tier has the most total money, the "Watchlist" has the highest **rate of loss**, meaning any dollar invested there is highly inefficient.
@@ -78,13 +77,11 @@ The **Watchlist** tier shows a concentration index of **1.34**, meaning it is 34
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](images/dashboard.png)
 
 ### Interaction Example (Filtering)
 ![Interaction](images/Interaction.png)
 
-
-![Interaction_2](images/Interaction_2.png)
 
 ---
 
